@@ -1,0 +1,12 @@
+.DS_Store
+result*
+.aider*
+!.aider.model*
+
+# Secrets
+modules/services/signal-cli-bot-secrets.nix
+hosts/secrets/
+
+# Vendor directories
+vendor/
+reference/
